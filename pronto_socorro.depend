@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492567212 source:c:\users\joão vitor borges\desktop\trabalhos\unisantos\estruturas de dados i\pronto socorro\pronto_socorro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pronto_socorro.h"
+
+1492565324 c:\users\joão vitor borges\desktop\trabalhos\unisantos\estruturas de dados i\pronto socorro\pronto_socorro\pronto_socorro.h
+	<stdbool.h>
+
+1492562680 source:c:\users\joão vitor borges\desktop\trabalhos\unisantos\estruturas de dados i\pronto socorro\pronto_socorro\pronto_socorro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pronto_socorro.h"
+
